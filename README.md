@@ -1,0 +1,65 @@
+# SawanoHiroyuki[nZk]:Tielle&Gemie – gravityWall
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:16.83] 交わる時間上にない涙腺曲がる快楽
+[00:20.75] 吐き捨てる哀・怒を手に妬みとつないでる
+[00:24.91] 映り気にしてる程見えない相違
+[00:29.02] 価値観の連鎖を止めるフリー気取りのバツ
+[00:33.32] Gravity wall 口づけを
+[00:41.82] 
+[00:40.55] I'm screaming something to you
+[00:42.33] Whatever, something to me
+[00:44.57] ズレた答えをどけた先だけが
+[00:48.60] I'm screaming something to you
+[00:50.80] Whatever, something to me
+[00:52.86] 絡まってる裸足でも賭ける
+[00:58.86] 
+[00:57.09] Now I don't know what I really want
+[01:00.49] I still don't know how to escape from this beautiful trap
+[01:05.76] Don't know what I really want
+[01:08.54] I still don't know how to escape from this dangerous trap
+[01:37.04] 
+[01:16.25] 無駄な理想像描き反響探し解読
+[01:20.25] 取って付ける成功法に飾る未来が倒れる
+[01:24.55] 日に当たらせるほど焦げた正義
+[01:28.58] キリない損得外せば手に取れた声
+[01:32.94] I know you're craving for my blood
+[01:49.94] 
+[01:39.91] I'm screaming something to you
+[01:41.98] Whatever, something to me
+[01:43.93] But everybody can't hear
+[01:45.93] Pay attention to me
+[01:47.95] I'm screaming something to you
+[01:50.06] Whatever, something to me
+[01:52.37] Everybody can't hear
+[01:54.39] Pay attention to me
+[02:03.89] 
+[01:56.49] Now I don't know what I really want
+[02:00.13] I still don't know how to escape from this beautiful trap
+[02:04.72] Don't know what I really want
+[02:08.08] I still don't know how to escape from this dangerous trap
+[02:36.58] 
+[02:29.28] I'm screaming something to you
+[02:31.00] Whatever, something to me
+[02:33.10] ズレた答えをどけた先だけが
+[02:37.27] I'm screaming something to you
+[02:39.24] Whatever, something to me
+[02:41.66] 絡まってる裸足でも賭ける
+[02:47.66] 
+[02:45.72] Now I don't know what I really want
+[02:49.06] I still don't know how to escape from this beautiful trap
+[02:53.76] Now I don't know what I really want
+[02:57.28] I still don't know how to escape from this dangerous trap
+[03:25.78] 
+[03:04.77] Break your stereo days
+[03:07.56] 空ほどいた太陽と羽の白が
+[03:12.88] Brave invisible world
+[03:15.76] 無くした色たちを照らす
+[03:21.26] 
+[03:21.02] Break your stereo days
+[03:23.92] Whatever they say, you'll never stop to believe in yourself
+[03:29.36] Brave invisible world
+[03:32.14] You know that it's true, you can find the new way
+```
