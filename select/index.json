@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "gravityWall",
+  "base_artist": "SawanoHiroyuki[nZk]:Tielle&Gemie",
+  "createdAt": "2026-03-10T06:45:24.081042Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "gravityWall",
+      "artist": "SawanoHiroyuki[nZk] feat. Tielle & Gemie",
+      "has_synced": true,
+      "path": "select/01_gravityWall_SawanoHiroyuki[nZk]_feat._Tielle_&_Gemie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "gravityWall",
+      "artist": "Tielle & Gemie",
+      "has_synced": true,
+      "path": "select/02_gravityWall_Tielle_&_Gemie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "gravityWall",
+      "artist": "SawanoHiroyuki[nZk]:Tielle&Gemie",
+      "has_synced": true,
+      "path": "select/03_gravityWall_SawanoHiroyuki[nZk]_Tielle&Gemie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "gravityWall",
+      "artist": "SawanoHiroyuki[nZk]:Tielle & Gemie",
+      "has_synced": true,
+      "path": "select/04_gravityWall_SawanoHiroyuki[nZk]_Tielle_&_Gemie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "gravityWall (Remastered)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": false,
+      "path": "select/05_gravityWall_(Remastered)_SawanoHiroyuki[nZk].txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "gravityWall (TV size)",
+      "artist": "SawanoHiroyuki[nZk]:Tielle&Gemie",
+      "has_synced": true,
+      "path": "select/06_gravityWall_(TV_size)_SawanoHiroyuki[nZk]_Tielle&Gemie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "gravityWall (Remastered)",
+      "artist": "SawanoHiroyuki[nZk]:Tielle&Gemie",
+      "has_synced": false,
+      "path": "select/07_gravityWall_(Remastered)_SawanoHiroyuki[nZk]_Tielle&Gemie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "gravityWall",
+      "artist": "SawanoHiroyuki[nZk]:Tielle",
+      "has_synced": true,
+      "path": "select/08_gravityWall_SawanoHiroyuki[nZk]_Tielle.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "gravityWall (feat. Tielle & Gemie) [Remastered]",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/09_gravityWall_(feat._Tielle_&_Gemie)_[Remastered]_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "gravityWall  ~ www.jpfiles.eu ~",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": false,
+      "path": "select/10_gravityWall_~_www.jpfiles.eu_~_SawanoHiroyuki[nZk].txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "gravityWall",
+      "artist": "SawanoHiroyuki[nZk]:Tielle & Gemie",
+      "has_synced": true,
+      "path": "select/11_gravityWall_SawanoHiroyuki[nZk]_Tielle_&_Gemie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "gravityWall",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": false,
+      "path": "select/12_gravityWall_SawanoHiroyuki[nZk].txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "gravityWall (Remastered)",
+      "artist": "SawanoHiroyuki[nZk]:Tielle&R!N / Gemie",
+      "has_synced": true,
+      "path": "select/13_gravityWall_(Remastered)_SawanoHiroyuki[nZk]_Tielle&R!N___Gemie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "gravityWall",
+      "artist": "SawanoHiroyuki[nZk]:Tielle&R!N / Gemie",
+      "has_synced": true,
+      "path": "select/14_gravityWall_SawanoHiroyuki[nZk]_Tielle&R!N___Gemie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "gravityWall (feat. Tielle & Gemie)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/15_gravityWall_(feat._Tielle_&_Gemie)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "gravityWall (ft. Tielle&Gemie) [remastered]",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": false,
+      "path": "select/16_gravityWall_(ft._Tielle&Gemie)_[remastered]_SawanoHiroyuki[nZk].txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "gravityWall (feat. Tielle & Gemie) (TV size)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/17_gravityWall_(feat._Tielle_&_Gemie)_(TV_size)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "gravityWall",
+      "artist": "SawanoHiroyuki[nZk]:Tielle&Gemie",
+      "has_synced": true,
+      "path": "select/18_gravityWall_SawanoHiroyuki[nZk]_Tielle&Gemie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "gravityWall",
+      "artist": "SawanoHiroyuki[nZk]:Tielle&Gemie",
+      "has_synced": false,
+      "path": "select/pl_01_gravityWall_SawanoHiroyuki[nZk]_Tielle&Gemie.txt"
+    }
+  ]
+}
